@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dylankyc/dylankyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology and actively involved in both DevOps and the blockchain space.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently focusing on **DevOps & Blockchain**
+- 🌱 I’m currently learning **Solana development and smart contracts**
+- 👯 I’m looking to collaborate on **projects that intersect DevOps and blockchain technologies**
+- 🤔 I’m looking for help with **advanced Solana features and integrations**
+- 📫 How to reach me: [dylankyc@gmail.com](mailto:dylankyc@gmail.com)
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I once built a fully automated CI/CD pipeline for deploying blockchain applications!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- Check out my project on Solana: [Bank on Solana](https://bank-solana.vercel.app/bank)
+
+Feel free to explore my repositories and connect with me!
