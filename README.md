@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm passionate about technology and actively invol
 - 🤔 I’m looking for help with **advanced Solana features and integrations**
 - 📫 How to reach me: [dylankyc@gmail.com](mailto:dylankyc@gmail.com)
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I once built a fully automated CI/CD pipeline for deploying blockchain applications!**
 
 ### Projects
 
